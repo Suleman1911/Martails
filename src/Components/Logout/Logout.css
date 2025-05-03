@@ -1,0 +1,11 @@
+.logoutbtn{
+    margin-left: 100px;
+    display: flex;
+    background-color: #dc3545;
+    color: #333;
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.sports-bg{
+    width: 100%;
+    min-height: 100vh;
+    background:linear-gradient(rgba(34, 34, 36, 0.7),rgba(37, 37, 42, 0.7)), url('../../assets/imgs/funfact-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    /* color: #fff; */
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding-left: 13%;
+    margin-bottom: 10%;
+    margin-top: -20px;
+    /* border: 1px solid white; */
+}
+.component{
+    display: flex;
+    flex-direction: column;
+    margin-top: -20%;
+    margin-left: -10%;
+}

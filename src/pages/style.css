@@ -1,0 +1,23 @@
+ const useCard = {
+    display: "flex",
+    flexWrap: "wrap",
+    gap: "20px",
+  };
+  
+  const nxtCard = {
+    display: "flex",
+    alignItem: "center",
+    justifyContent: "Center",
+    gap: "20px",
+  };
+  
+  const ImgStyle = {
+    display : "flex",
+    flexWrap : "wrap",
+    alignItem : "center",
+    justifyContent : "center",
+    gap : "20px",
+    width : "80%",
+    margin : "auto",
+    marginBottom : "20%"
+  };
